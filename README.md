@@ -1,1 +1,1 @@
-# springcloud-confihg
+# springcloud-config
